@@ -1,2 +1,2 @@
-# HIC_Data_Analysis
+# HIC Data Analysis
 Running HIC analysis on Hipergator at UF
